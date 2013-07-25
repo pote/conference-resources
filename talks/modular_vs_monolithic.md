@@ -13,4 +13,12 @@ your application into several small ones, how to build a monolithic app that can
 and incrementally so as not to lose the ability to deliver new features, and how to decide when it's simply not worth it.
 
 
+### Meta
+
 Talk duration: ~25 minutes + questions.
+Slides:        [speakerdeck.com/pote/modular-vs-monolithic-no-holy-grails](https://speakerdeck.com/pote/modular-vs-monolithic-no-holy-grails)
+
+Talk presented in:
+
+* [Eurucamp 2012](http://2012.eurucamp.org/) - Berlin, Germany.
+* [RS on Rails 2012](http://rsonrails.com.br/) - Porto Alegre, Brazil.

@@ -6,4 +6,12 @@ Much like Object Orientation the Model-View-Controller pattern is one of the mos
 
 On this talk I present different aspects of the MVC pattern and its changes from its inception to modern day use, what to keep in mind about the pattern as opposed to a single framework's implementation of it and how knowing this should make us all around better programmers.
 
+### Meta
+
 Talk duration: ~25 minutes + questions.
+Slides:        [speakerdeck.com/pote/50-shades-of-mvc](https://speakerdeck.com/pote/50-shades-of-mvc)
+
+Talk presented in:
+
+* [Red Dot RubyConf 2013](http://www.reddotrubyconf.com/) - Singapore.
+* [RubyConf Brazil 2013](http://www.rubyconf.com.br/en/) - São Paulo, Brazil.
