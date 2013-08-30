@@ -8,7 +8,7 @@ On this talk I present different aspects of the MVC pattern and its changes from
 
 ### Meta
 
-Talk duration: ~25 minutes + questions.
+Talk duration: ~30-35 minutes + questions.
 Slides:        [speakerdeck.com/pote/50-shades-of-mvc](https://speakerdeck.com/pote/50-shades-of-mvc)
 
 Talk presented in:
