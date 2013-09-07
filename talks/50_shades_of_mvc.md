@@ -9,7 +9,9 @@ On this talk I present different aspects of the MVC pattern and its changes from
 ### Meta
 
 Talk duration: ~30-35 minutes + questions.
-Slides:        [speakerdeck.com/pote/50-shades-of-mvc](https://speakerdeck.com/pote/50-shades-of-mvc)
+
+* Slides: [speakerdeck.com/pote/50-shades-of-mvc](https://speakerdeck.com/pote/50-shades-of-mvc)
+* Video:  [eventials.com/pt-br/locaweb/50-tons-de-mvc](https://www.eventials.com/pt-br/locaweb/50-tons-de-mvc/)
 
 Talk presented in:
 
