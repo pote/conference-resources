@@ -17,3 +17,5 @@ Talk presented in:
 
 * [Red Dot RubyConf 2013](http://www.reddotrubyconf.com/) - Singapore.
 * [RubyConf Brazil 2013](http://www.rubyconf.com.br/en/) - São Paulo, Brazil.
+* [StarTech Conf 2013](http://www.startechconf.com/) - Santiago de Chile, Chile.
+* [RubyConf Argentina](http://rubyconfargentina.org) - Buenos Aires, Argentina.
