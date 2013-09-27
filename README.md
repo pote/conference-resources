@@ -5,11 +5,14 @@ I maintain this repo to keep my conference-bio, talks and talk resources up to d
 
 ## Conference changelog
 
-* [Modular vs Monolithic: no Holy Grails][mvm].     2012 - Eurucamp, Berlin, Germany.
-* [Modular vs Monolithic: no Holy Grails][mvm].     2012 - RS on Rails, Porto Alegre, Brazil.
-* [Ruby (sometimes) sucks][rss].                    2012 - RubyConf Argentina, Buenos Aires, Argentina.
-* [50 Shades of MVC][mvc]                           2013 - Red Dot RubyConf, Singapore.
+* [50 Shades of MVC][mvc]                           2013 - RubyConf Ar, Buenos Aires, Argentina.
+* [50 Shades of MVC][mvc]                           2013 - StarTech Conf, Santiago de Chile, Chile.
 * [50 Shades of MVC][mvc]                           2013 - RubyConf Brazil, São Paulo, Brazil.
+* [50 Shades of MVC][mvc]                           2013 - Red Dot RubyConf, Singapore.
+* [Ruby (sometimes) sucks][rss].                    2012 - RubyConf Argentina, Buenos Aires, Argentina.
+* [Modular vs Monolithic: no Holy Grails][mvm].     2012 - RS on Rails, Porto Alegre, Brazil.
+* [Modular vs Monolithic: no Holy Grails][mvm].     2012 - Eurucamp, Berlin, Germany.
+
 
 ### Licence
 
