@@ -8,10 +8,14 @@ On this talk I present different aspects of the MVC pattern and its changes from
 
 ### Meta
 
-Talk duration: ~25 minutes + questions.
-Slides:        [speakerdeck.com/pote/50-shades-of-mvc](https://speakerdeck.com/pote/50-shades-of-mvc)
+Talk duration: ~30-35 minutes + questions.
+
+* Slides: [speakerdeck.com/pote/50-shades-of-mvc](https://speakerdeck.com/pote/50-shades-of-mvc)
+* Video:  [eventials.com/pt-br/locaweb/50-tons-de-mvc](https://www.eventials.com/pt-br/locaweb/50-tons-de-mvc/)
 
 Talk presented in:
 
 * [Red Dot RubyConf 2013](http://www.reddotrubyconf.com/) - Singapore.
 * [RubyConf Brazil 2013](http://www.rubyconf.com.br/en/) - São Paulo, Brazil.
+* [StarTech Conf 2013](http://www.startechconf.com/) - Santiago de Chile, Chile.
+* [RubyConf Argentina](http://rubyconfargentina.org) - Buenos Aires, Argentina.
