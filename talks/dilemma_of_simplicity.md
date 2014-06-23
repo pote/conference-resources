@@ -14,3 +14,7 @@ Talk duration: ~30 minutes + questions.
 Talk presented in:
 
 * [Abril Pro Ruby 2014](http://abrilproruby.com) - Brazil.
+
+### Video
+
+* [Abril Pro Ruby 2014](https://www.youtube.com/watch?v=MOjeNcN1__c) - Brazil.
