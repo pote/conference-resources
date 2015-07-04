@@ -5,6 +5,8 @@ I maintain this repo to keep my conference-bio, talks and talk resources up to d
 
 ## Conference changelog
 
+* [The Dilemma of Simplicity][simplicity]           2014 - RubyConf Argentina's Keynote - Buenos Aires, Argentina.
+* [The Dilemma of Simplicity][simplicity]           2014 - Nickel City Ruby - Buffalo, NY, USA.
 * [The Dilemma of Simplicity][simplicity]           2014 - Abril Pro Ruby - Porto de Galhinas, Brazil.
 * [50 Shades of MVC][mvc]                           2013 - RubyConf Ar, Buenos Aires, Argentina.
 * [50 Shades of MVC][mvc]                           2013 - StarTech Conf, Santiago de Chile, Chile.
