@@ -13,8 +13,10 @@ Talk duration: ~30 minutes + questions.
 
 Talk presented in:
 
+* [RubyConf Argentina 2014 Keynote](rubyconfargentina.com)
 * [Abril Pro Ruby 2014](http://abrilproruby.com) - Brazil.
 
 ### Video
 
+* [RubyConf Argentina 2014 Keynote](https://vimeo.com/116458315)
 * [Abril Pro Ruby 2014](https://www.youtube.com/watch?v=MOjeNcN1__c) - Brazil.
